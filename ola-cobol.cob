@@ -1,0 +1,7 @@
+
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. OLA.
+       PROCEDURE DIVISION.
+           DISPLAY "Olá, COBOL!".
+
+           STOP RUN.
